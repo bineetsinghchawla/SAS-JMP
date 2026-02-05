@@ -10394,3 +10394,4 @@ age,job,marital,education,default,housing,loan,contact,day,month,duration,campai
 65,management,married,unknown,no,no,no,cellular,8,nov,354,3,188,13,success,0,positive,,
 66,retired,married,secondary,no,no,no,cellular,15,nov,414,2,27,6,failure,0,positive,,
 70,retired,married,primary,no,no,no,cellular,15,nov,78,1,96,7,success,0,positive,,
+
